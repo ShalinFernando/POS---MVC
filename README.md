@@ -9,5 +9,5 @@ Technologies used:-
 * Factories
 * Singleton
 * CSS
-* JDMC
+* JDBC
 * mySql
