@@ -1,0 +1,4 @@
+.idea/**
+out/**
+error.log
+Application Architecture.iml
